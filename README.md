@@ -1,2 +1,3 @@
 # ZJU_ISEE
-Here is Songcheng Cai's project repository and class resources
+这是一个浙江大学信息与电子工程学院信息工程专业的大部分专业课的课程project和课程资源仓库
+相关介绍可以查看cc98帖子
