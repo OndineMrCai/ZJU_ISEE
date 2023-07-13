@@ -1,0 +1,384 @@
+
+ INPUT :
+
+        69 70 61 61 
+        73 6C 72 72 
+        63 69 79 65 
+        69 6E 20 61 
+
+  KEY  :
+
+        85 62 67 85 
+        21 10 7E 21 
+        67 85 62 67 
+        7E 21 10 7E 
+
+*******  ROUND  1  *******
+
+      Start of round    
+
+        EC 12 06 E4 
+        52 7C 0C 53 
+        04 EC 1B 02 
+        17 4F 30 1F 
+
+      After sub_bytes     
+
+        CE C9 6F 69 
+        00 10 FE ED 
+        F2 CE AF 77 
+        F0 84 04 C0 
+
+     After  shift_rows    
+
+        CE C9 6F 69 
+        10 FE ED 00 
+        AF 77 F2 CE 
+        C0 F0 84 04 
+
+     After mix_columns    
+
+        D8 17 84 18 
+        C4 47 27 24 
+        C0 D2 EA E2 
+        6D 32 BD 7D 
+
+        Round   key       
+
+        79 1B 7C F9 
+        A4 B4 CA EB 
+        94 11 73 14 
+        E9 C8 D8 A6 
+
+*******  ROUND  2  *******
+
+      Start of round    
+
+        A1 0C F8 E1 
+        60 F3 ED CF 
+        54 C3 99 F6 
+        84 FA 65 DB 
+
+      After sub_bytes     
+
+        32 FE 41 F8 
+        D0 0D 55 8A 
+        20 2E EE 42 
+        5F 2D 4D B9 
+
+     After  shift_rows    
+
+        32 FE 41 F8 
+        0D 55 8A D0 
+        EE 42 20 2E 
+        B9 5F 2D 4D 
+
+     After mix_columns    
+
+        24 05 0A E3 
+        B8 CD 03 7C 
+        28 CE FC A3 
+        DC B0 33 77 
+
+        Round   key       
+
+        92 89 F5 0C 
+        5E EA 20 CB 
+        B0 A1 D2 C6 
+        70 B8 60 C6 
+
+*******  ROUND  3  *******
+
+      Start of round    
+
+        B6 8C FF EF 
+        E6 27 23 B7 
+        98 6F 2E 65 
+        AC 08 53 B1 
+
+      After sub_bytes     
+
+        4E 64 16 DF 
+        8E CC 26 A9 
+        46 A8 31 4D 
+        91 30 ED C8 
+
+     After  shift_rows    
+
+        4E 64 16 DF 
+        CC 26 A9 8E 
+        31 4D 46 A8 
+        C8 91 30 ED 
+
+     After mix_columns    
+
+        2A 7E BA 69 
+        56 6E A5 D6 
+        A3 70 63 36 
+        A4 FE B5 9D 
+
+        Round   key       
+
+        89 00 F5 F9 
+        EA 00 20 EB 
+        04 A5 77 B1 
+        8E 36 56 90 
+
+*******  ROUND  4  *******
+
+      Start of round    
+
+        A3 7E 4F 90 
+        BC 6E 85 3D 
+        A7 D5 14 87 
+        2A C8 E3 0D 
+
+      After sub_bytes     
+
+        0A F3 84 60 
+        65 9F 97 27 
+        5C 03 FA 17 
+        E5 E8 11 D7 
+
+     After  shift_rows    
+
+        0A F3 84 60 
+        9F 97 27 65 
+        FA 17 5C 03 
+        D7 E5 E8 11 
+
+     After mix_columns    
+
+        83 AD CE 7D 
+        ED 1A C6 BE 
+        18 7E 38 30 
+        CE 5F 27 E4 
+
+        Round   key       
+
+        68 68 9D 64 
+        22 22 02 E9 
+        64 C1 B6 07 
+        17 21 77 E7 
+
+*******  ROUND  5  *******
+
+      Start of round    
+
+        EB C5 53 19 
+        CF 38 C4 57 
+        7C BF 8E 37 
+        D9 7E 50 03 
+
+      After sub_bytes     
+
+        E9 A6 ED D4 
+        8A 07 1C 5B 
+        10 08 19 9A 
+        35 F3 53 7B 
+
+     After  shift_rows    
+
+        E9 A6 ED D4 
+        07 1C 5B 8A 
+        19 9A 10 08 
+        7B 35 F3 53 
+
+     After mix_columns    
+
+        A2 DC CF 6D 
+        B7 1E 98 90 
+        51 CA 98 BB 
+        C8 1D 9A 43 
+
+        Round   key       
+
+        66 0E 93 F7 
+        E7 C5 C7 2E 
+        F0 31 87 80 
+        54 75 02 E5 
+
+*******  ROUND  6  *******
+
+      Start of round    
+
+        C4 D2 5C 9A 
+        50 DB 5F BE 
+        A1 FB 1F 3B 
+        9C 68 98 A6 
+
+      After sub_bytes     
+
+        1C B5 4A B8 
+        53 B9 CF AE 
+        32 0F C0 E2 
+        DE 45 46 24 
+
+     After  shift_rows    
+
+        1C B5 4A B8 
+        B9 CF AE 53 
+        C0 E2 32 0F 
+        24 DE 45 46 
+
+     After mix_columns    
+
+        0C 07 0A D7 
+        0A D3 1E 49 
+        52 DC 4F 3F 
+        15 4E C8 03 
+
+        Round   key       
+
+        77 79 EA 1D 
+        2A EF 28 06 
+        29 18 9F 1F 
+        3C 49 4B AE 
+
+*******  ROUND  7  *******
+
+      Start of round    
+
+        7B 7E E0 CA 
+        20 3C 36 4F 
+        7B C4 D0 20 
+        29 07 83 AD 
+
+      After sub_bytes     
+
+        21 F3 E1 74 
+        B7 EB 05 84 
+        21 1C 70 B7 
+        A5 C5 EC 95 
+
+     After  shift_rows    
+
+        21 F3 E1 74 
+        EB 05 84 B7 
+        70 B7 21 1C 
+        95 A5 C5 EC 
+
+     After mix_columns    
+
+        81 E0 AA DA 
+        E9 9E 54 C9 
+        8E 77 73 D4 
+        C9 ED 0C F4 
+
+        Round   key       
+
+        58 21 CB D6 
+        EA 05 2D 2B 
+        CD D5 4A 55 
+        98 D1 9A 34 
+
+*******  ROUND  8  *******
+
+      Start of round    
+
+        D9 C1 61 0C 
+        03 9B 79 E2 
+        43 A2 39 81 
+        51 3C 96 C0 
+
+      After sub_bytes     
+
+        35 78 EF FE 
+        7B 14 B6 98 
+        1A 3A 12 0C 
+        D1 EB 90 BA 
+
+     After  shift_rows    
+
+        35 78 EF FE 
+        14 B6 98 7B 
+        12 0C 1A 3A 
+        BA D1 EB 90 
+
+     After mix_columns    
+
+        FE EC 87 C0 
+        91 CA 01 D6 
+        D0 BE 65 5A 
+        36 8B 65 63 
+
+        Round   key       
+
+        29 08 C3 15 
+        16 13 3E 15 
+        D5 00 4A 1F 
+        6E BF 25 11 
+
+*******  ROUND  9  *******
+
+      Start of round    
+
+        D7 E4 44 D5 
+        87 D9 3F C3 
+        05 BE 2F 45 
+        58 34 40 72 
+
+      After sub_bytes     
+
+        0E 69 1B 03 
+        17 35 75 2E 
+        6B AE 15 6E 
+        6A 18 09 40 
+
+     After  shift_rows    
+
+        0E 69 1B 03 
+        35 75 2E 17 
+        15 6E 6B AE 
+        40 6A 18 09 
+
+     After mix_columns    
+
+        16 49 37 98 
+        1B 5B E2 CD 
+        D1 7E CB 48 
+        B2 74 58 AE 
+
+        Round   key       
+
+        6B 63 A0 B5 
+        D6 C5 FB EE 
+        57 57 1D 02 
+        37 88 AD BC 
+
+*******  ROUND  10  *******
+
+      Start of round    
+
+        7D 2A 97 2D 
+        CD 9E 19 23 
+        86 29 D6 4A 
+        85 FC F5 12 
+
+      After sub_bytes     
+
+        FF E5 88 D8 
+        BD 0B D4 26 
+        44 A5 F6 D6 
+        97 B0 E6 C9 
+
+     After  shift_rows    
+
+        FF E5 88 D8 
+        0B D4 26 BD 
+        F6 D6 44 A5 
+        C9 97 B0 E6 
+
+        Round   key       
+
+        75 16 B6 03 
+        A1 64 9F 71 
+        32 65 78 7A 
+        E2 6A C7 7B 
+
+        Final  state        
+
+        8A F3 3E DB 
+        AA B0 B9 CC 
+        C4 B3 3C DF 
+        2B FD 77 9D 
